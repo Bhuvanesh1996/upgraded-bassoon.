@@ -1,0 +1,101 @@
+body{
+	padding-top: 70px;
+	padding-bottom: 50px;
+	background:#647796;
+
+}
+.navbar-inverse {
+     background-color: #2c3e50; 
+    color: red;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #ffffff;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+/*.thumbnail
+{
+	width:350px;
+	height:200px;
+}
+*/
+.align
+{
+	text-align:center; 
+	
+}
+
+#tn{
+	width: 350px;
+	height: 190px;
+}
+
+#ker{
+	width: 350px;
+	height: 190px;
+}
+
+#kas{
+	width: 350px;
+	height: 190px;
+}
+
+#del{
+	width: 350px;
+	height: 190px;
+}
+
+#agr{
+	width: 350px;
+	height: 190px;
+}
+
+#mys{
+	width: 350px;
+	height: 190px;
+}
+
+#kol{
+	width: 350px;
+	height: 190px;
+}
+
+#ass{
+	width: 350px;
+	height: 190px;
+}
+#hp{
+	width: 350px;
+	height: 190px;
+}
+
+.simple{
+	padding-bottom:25px;
+	align-content: center;
+}
+.jumbotron {
+    color: #ffffff;
+    background:url(jum.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+a{
+	
+	text-decoration: none;
+	color: #2c3e50;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+#link{
+	color: #ffffff;
+	text-decoration: none;
+}
+
+#link:hover{
+	color: #d0d6e0;
+}
